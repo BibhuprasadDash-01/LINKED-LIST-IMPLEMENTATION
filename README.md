@@ -21,3 +21,4 @@ DESCRIPTION OF INTERNSHIP TASK-2:- LINKED LIST IMPLEMENTATION
 * DELIVERABLE: A MODULAR AND EFFICIENT LINKED LIST IMPLEMENTATION.
   
   *OUTPUT*
+  <img width="1920" height="419" alt="Image" src="https://github.com/user-attachments/assets/1b4fda2a-3ed2-49c2-97be-d2aa025ff54d" />
